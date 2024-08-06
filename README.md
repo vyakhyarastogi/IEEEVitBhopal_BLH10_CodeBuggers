@@ -8,7 +8,7 @@
 **Frontend:** 1)HTML/CSS 
               2)React.js </br>
 **Backend:** MongoDB,Postman,Express.js <br/>
-- **Data Analysis and visulization**: For a React application, popular data visualization libraries include:Chart.js,d3.js,Recharts.js. <br/>
+**Data Analysis and visulization**: For a React application, popular data visualization libraries include:Chart.js,d3.js,Recharts.js. <br/>
 - **SetUp Instructions**:
             For setup in your personal laptops follow the guideline:
                      1)Open VS code and clone this repository : git clone repo_url_link </br>
