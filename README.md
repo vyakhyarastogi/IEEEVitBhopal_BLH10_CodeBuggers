@@ -14,12 +14,12 @@
                      1)Open VS code and clone this repository : git clone repo_url_link </br>
                      2)install node modules : npm i  </br>
                      3)npm run start <br/>
-- **Usage Instructions:** we have four features: -  Dashboard which represents the chart , recent history,total income,total expense and total balance.</br>
-                                                 -  View Transaction:Here we can see the transactions we have made.</br>
-                                                 -  Income: Displaying total incomes having dropdown menu consisting of various sources of income such as freelancing,stocks,bitcoin etc.</br>
-                                                 -  Expenses: showing personalized budget based upon various categories such as education,health,etc.</br>
+- **Usage Instructions:** we have four features: - Dashboard which represents the chart , recent history,total income,total expense and total balance.</br>
+                                                 - View Transaction:Here we can see the transactions we have made.</br>
+                                                 - Income: Displaying total incomes having dropdown menu consisting of various sources of income such as freelancing,stocks,bitcoin etc.</br>
+                                                 - Expenses: showing personalized budget based upon various categories such as education,health,etc.</br>
    
-                                                 - Signout page:where user can signout from the website.     </br>                                    
+                                                 - Signout page: where user can signout from the website.     </br>                                    
                                               
   
                      
